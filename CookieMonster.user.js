@@ -2,6 +2,7 @@
 // @name Cookie Monster
 // @include /https?://orteil.dashnet.org/cookieclicker/
 // @include /https?://cookieclicker.ee/
+// @include /https://mrbuilder1961.github.io/
 // ==/UserScript==
 
 const readyCheck = setInterval(() => {
